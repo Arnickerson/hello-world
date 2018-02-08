@@ -1,2 +1,3 @@
 # hello-world
 Source files
+Hi Im Albert, new to coding and hopefully at the begining of a new journey.
